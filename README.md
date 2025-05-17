@@ -1,1 +1,1 @@
-# Crypto-Tracker
+Crypto-Tracker is a web application that allows users to monitor real-time cryptocurrency prices and market trends.It provides interactive charts, price comparisons, and historical data for various digital currencies and the platform fetches live data from public crypto APIs and presents it in a user-friendly interface Ideal for investors and enthusiasts, Crypto-Tracker helps make informed decisions in the crypto market.  
